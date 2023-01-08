@@ -1,7 +1,0 @@
-# Gradle build outputs
-/.gradle/
-/build/
-/examples/*/build/
-
-# Intellij Project Files
-/.idea/
